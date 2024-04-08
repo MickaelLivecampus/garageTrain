@@ -4,7 +4,7 @@ function connectDB(){
   $host = '151.80.32.16:6033';
   $user = 'if0_35606101';
   $password = 'UT57Hj7nKcA';
-  $database = 'if0_35606101_garage_train';
+  $database = 'if0_35606101_garage_train_2';
   $conn = new mysqli($host, $user, $password, $database);
 
   if ($conn->connect_error) {
