@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - code-revue
+      - qodana
 
 
 jobs:
